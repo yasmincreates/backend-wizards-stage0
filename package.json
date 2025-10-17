@@ -1,7 +1,7 @@
 {
   "name": "backend-wizards-stage0",
   "version": "1.0.0",
-  "description": "Stage 0 Backend Task - Dynamic Profile Endpoint",
+  "description": "HNG13_Backend Wizards Stage 0 - Profile Endpoint",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
